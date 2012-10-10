@@ -33,7 +33,7 @@ See the [UIBezierPath documentation](http://developer.apple.com/library/ios/#doc
 ##License and Copyright
 MGDrawingSlate is open-source and is licensed under the MIT License. To put it simply, this means that you can use it in both free and commercial work with a few conditions. For more information, see the license file included with this source code or visit http://opensource.org/licenses/MIT.
 
-MGDrawingSlate is © 2012 gtmtg. Some rights reserved. See the license file or visit the link above for more information.
+MGDrawingSlate is © 2012 Mihir Garimella. Some rights reserved. See the license file or visit the link above for more information.
 
 ##Other Information
-The demo application included with this source code is also licensed under the MIT License and is © 2012 gtmtg. In addition to MGDrawingSlate, the demo application uses the [InfColorPicker](https://github.com/InfinitApps/InfColorPicker), which is © 2011 InfinitApps.
+The demo application included with this source code is also licensed under the MIT License and is © 2012 Mihir Garimella. In addition to MGDrawingSlate, the demo application uses the [InfColorPicker](https://github.com/InfinitApps/InfColorPicker), which is © 2011 InfinitApps.

@@ -2,8 +2,8 @@
 //  DemoViewController.m
 //  MGDrawingSlate-Demo
 //
-//  Created by gtmtg on 7/13/12.
-//  Copyright (c) 2012 gtmtg.
+//  Created by Mihir Garimella on 7/13/12.
+//  Copyright (c) 2012 Mihir Garimella.
 //  Licensed for use under the MIT License. See the license file included with this source code or visit http://opensource.org/licenses/MIT for more information.
 //
 
@@ -117,7 +117,7 @@ CGRect placeholderFrame; //Stores placeholder
 //Show copyright and license info - only for demonstration app
 - (IBAction)showInfo:(id)sender {
     
-    UIAlertView *info = [[UIAlertView alloc] initWithTitle:@"About" message:@"Both MGDrawingSlate and this demonstration app are © 2012 gtmtg and are licensed for use under the MIT License. Some rights reserved.\n\nThe color picker used in this demonstration app is © 2011 InfinitApps, and is also licensed for use under the MIT License." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
+    UIAlertView *info = [[UIAlertView alloc] initWithTitle:@"About" message:@"Both MGDrawingSlate and this demonstration app are © 2012 Mihir Garimella and are licensed for use under the MIT License. Some rights reserved.\n\nThe color picker used in this demonstration app is © 2011 InfinitApps, and is also licensed for use under the MIT License." delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
     
     [info show];
     

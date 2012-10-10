@@ -2,8 +2,8 @@
 //  MGDrawingSlate.h
 //  MGDrawingSlate
 //
-//  Created by gtmtg on 6/28/12.
-//  Copyright (c) 2012 gtmtg.
+//  Created by Mihir Garimella on 6/28/12.
+//  Copyright (c) 2012 Mihir Garimella.
 //  Licensed for use under the MIT License. See the license file included with this source code or visit http://opensource.org/licenses/MIT for more information.
 //
 
