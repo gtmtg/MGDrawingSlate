@@ -11,7 +11,7 @@ To create the MGDrawingSlate, use
     MGDrawingSlate *drawingSlate = [[MGDrawingSlate alloc] initWithFrame:CGRectMake(x, y, width, height)];
     [drawingSlate addToSubview];
 
-Alternatively, if you would prefer to position and size the drawing slate in Interface Builder itself, just create a placeholder view. In your ```viewDidLoad``` method, get the frame of the placeholder view, remove it from the superview, and initialize the MGDrawingSlate with that frame instead.
+Alternatively, if you would prefer to position and size the drawing slate in Interface Builder itself, just create a view and change its class to MGDrawingSlate in the Inspector.
 
 In addition, you can do several other things with the the MGDrawingSlate, like clear it and export the drawing to the user's camera roll. See the included demo application and its source code for ways to implement these. 
 
